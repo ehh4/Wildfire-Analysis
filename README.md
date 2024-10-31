@@ -51,6 +51,7 @@ data-512-project/
 
 ### Considerations
 #### Distance:
+Distance is calculated as the average distance of all perimeter points to the city, not quite what the centroid would be, but it is probably fairly close.
 #### Smoke Impact Estimate:
 The smoke impact estimate calculation was based off of the [Inverse Square Law](https://en.wikipedia.org/wiki/Inverse-square_law) which states that the '"intensity" of a specified physical quantity is inversely proportional to the square of the distance from the source of that physical quantity.' The calculation is $intensity \times \left(\frac{1}{distance^2}\right)$. However, after discussing with Sarah K., to ensure that the calculation is never dividing 0, I added 1 to the distance, so my calculation for each fire smoke impact estimate is $intensity \times \left(\frac{1}{(distance + 1)^2}\right)$. After calculating the smoke impact estimate for each fire, I created the yearly estimate by summing all the smoke impact estimates for each year. This calculation accounts for a decrease in value for when the fire is further away but also accounts for an increase in value when a fire is buring more acres. 
 #### AQI Estimate:

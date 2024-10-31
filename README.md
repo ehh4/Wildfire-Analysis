@@ -29,7 +29,8 @@ data-512-project/
 ├── wildfire/
     ├──Reader.py
     ├──Wildfire_short_sample_2024.json
-    └──__init__.py                     
+    └──__init__.py
+├── Project Part 1 Write-up.pdf                     
 ├── LICENSE                            
 └── README.md
 ```

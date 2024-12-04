@@ -1,0 +1,35 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+Tennessee,1990,All ages,Both,Chronic obstructive pulmonary disease,Deaths,1946.9179810803707,1817.8425781428616,2039.902754735607
+Tennessee,1991,All ages,Both,Chronic obstructive pulmonary disease,Deaths,1957.9979743945887,1825.0458306123057,2059.1050824629547
+Tennessee,1992,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2041.2753776042941,1888.224197513831,2152.1463428409525
+Tennessee,1993,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2234.16244875217,2076.5334417171293,2345.1023126711943
+Tennessee,1994,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2253.5591364474103,2090.1004335441594,2367.2424091830662
+Tennessee,1995,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2332.6925596057577,2166.2641597982124,2453.382198854102
+Tennessee,1996,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2398.8542614388602,2234.627262929924,2526.7342016541766
+Tennessee,1997,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2567.097235627147,2394.6453997855283,2709.583503094331
+Tennessee,1998,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2730.996433357787,2526.559838359674,2885.530036900394
+Tennessee,1999,All ages,Both,Chronic obstructive pulmonary disease,Deaths,2935.568972724709,2723.5390195140635,3091.2384354822407
+Tennessee,2000,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3070.524474068661,2841.3294578396644,3239.656495614647
+Tennessee,2001,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3156.8486902583995,2900.8873522621693,3327.9604925582535
+Tennessee,2002,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3214.4950330766337,2965.668971432473,3381.2210495445506
+Tennessee,2003,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3271.5365231268875,3008.7233370464023,3445.3543912651694
+Tennessee,2004,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3287.893991743565,3017.9336015564527,3462.4219481129753
+Tennessee,2005,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3422.510177759243,3144.661473689509,3609.6413902226714
+Tennessee,2006,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3422.8326000823454,3130.787339589138,3613.1171116227974
+Tennessee,2007,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3571.693197158685,3262.0689751947457,3789.9622685215622
+Tennessee,2008,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3822.297757890802,3483.0974870671253,4058.6583873037675
+Tennessee,2009,All ages,Both,Chronic obstructive pulmonary disease,Deaths,3914.954965968146,3570.9363945623927,4138.51455260375
+Tennessee,2010,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4018.462065604345,3634.1706711142324,4258.658282757263
+Tennessee,2011,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4162.255797388492,3771.190537939731,4404.6531990137355
+Tennessee,2012,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4304.4637436730945,3892.8027632230796,4554.854490231748
+Tennessee,2013,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4485.655979583946,4034.7793863996226,4748.379071694421
+Tennessee,2014,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4700.43479051547,4265.896017844815,4977.321434316928
+Tennessee,2015,All ages,Both,Chronic obstructive pulmonary disease,Deaths,4891.021995342131,4434.633031970708,5182.215873259982
+Tennessee,2016,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5112.363045233726,4639.186777111164,5418.742117036669
+Tennessee,2017,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5354.569148334956,4868.6381019201,5683.4200155821745
+Tennessee,2018,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5450.816046503139,4919.389931661248,5793.653583851459
+Tennessee,2019,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5440.391978632055,4909.955270138717,5779.615403721431
+Tennessee,2020,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5534.99848594851,4968.377461047917,5968.605433387413
+Tennessee,2021,All ages,Both,Chronic obstructive pulmonary disease,Deaths,5716.811746341127,4895.61639167988,6556.258007796408
+
+"Institute for Health Metrics and Evaluation (IHME). GBD Compare Data Visualization. Global Burden of Disease (GBD) Study 2021. Seattle, WA: IHME, University of Washington, 2023. Available from http://vizhub.healthdata.org/gbd-compare. (Accessed 11/3/2024). For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions"

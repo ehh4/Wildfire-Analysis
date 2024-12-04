@@ -81,7 +81,8 @@ data-512-project/
 - wildfire/ This directory is from Dr. McDonald which contains Reader.py module to help read in the geojson wildfire data
 - docs/ This directory contains documents required for this project
 
-
+#### Model
+ARIMA was used for modeling in analysis.ipynb and in smoke_impact_extension.ipynb, documentation for this model can be found [here](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) and [here](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html). Linear regression was used in smoke_impact_extention.ipynb, implimentation documentation can be found [here](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LinearRegression.html).
 
 
 ### Considerations

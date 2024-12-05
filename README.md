@@ -36,7 +36,7 @@ data-512-project/
 ├── docs
     ├── Project Part 1 Write-up.pdf
     ├── HCD-Presentation.pptx
-    └── Project Part 4 Write-up.pdf
+    └── Project Part 4 Final Report.pdf
 ├── LICENSE
 └── README.md
 ```

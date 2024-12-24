@@ -14,7 +14,7 @@ All other code not designated as starter code from Dr. McDonald is created by El
 ### Repository Structure
 
 ```plaintext
-data-512-project/
+Wildfire-Analysis/
 ├── examples/
     ├──epa_air_quality_history_example.ipynb
     └──wildfire_geo_proximity_example.ipynb
